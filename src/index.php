@@ -25,7 +25,7 @@
 <div class="container text-center">
   <div class="row align-items-start">
     <div class="col">
-      One of three columns
+      One of three columns theng
     </div>
     <div class="col">
       One of three columns
